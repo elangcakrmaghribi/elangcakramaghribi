@@ -490,6 +490,11 @@ img {
   margin-bottom: 1rem;
 }
 
+.experience__date a {
+  color : white;
+  font-size : 12px;
+}
+
 .experience__description {
   color: var(--text-color);
 }
